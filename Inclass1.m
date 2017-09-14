@@ -1,3 +1,4 @@
+%AW: Good job. 1/1.
 % Darlan Minussi
 
 % InClass1: some simple excerises to get started with MATLAB. Please complete by
